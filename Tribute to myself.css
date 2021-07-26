@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 1px 2px 1px blue, 2px 1px 23px red, 2px 0px 1px aqua;
+    font-size: 50px;
+}
+img{
+    margin-left: 620px;
+    margin-bottom: 12px;
+}
+li{
+    text-align: center;
+    font-size: 20px;
+    background-color: lightslategray;
+   word-spacing: 4.5px;
+   line-height: 35px;
+}
